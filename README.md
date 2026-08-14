@@ -9,7 +9,7 @@ CompTIA A+ and Network+ certified Computer Information Technology (CIT) graduate
 * **Triage & Support:** System Log Analysis, Data Validation, Ticket Queue Tracking
 
 ## 📂 Highlighted Repositories
-* **[CIT480SeniorProject](https://github.com):** Maintained web applications and infrastructure automation workflows utilizing Terraform network deployment, Ansible environment scripting, and automated Grafana system monitoring dashboard configurations.
+* **[aws-infrastructure-deployment](https://github.com):** Maintained web applications and infrastructure automation workflows utilizing Terraform network deployment, Ansible environment scripting, and automated Grafana system monitoring dashboard configurations.
 
 ## 🔗 Connect With Me
 * **Email:** timothyj.abad@gmail.com
