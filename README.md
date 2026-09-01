@@ -13,7 +13,7 @@ CompTIA A+ and Network+ certified Computer Information Technology (CIT) graduate
 
 ## 🔗 Connect With Me
 * **Email:** timothyj.abad@gmail.com
-* **GitHub Profile:** ://github.com/TimothyAbad
+* **GitHub Profile:** ://github.com
 
 
 <!--
