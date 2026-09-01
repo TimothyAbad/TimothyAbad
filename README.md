@@ -10,7 +10,7 @@ CompTIA A+ and Network+ certified Computer Information Technology (CIT) graduate
 
 ## 📂 Highlighted Repositories
 * **[aws-infrastructure-deployment](https://github.com/TimothyAbad/AWS-Infrastructure-Deployment):** Maintained web applications and infrastructure automation workflows utilizing Terraform network deployment, Ansible environment scripting, and automated Grafana system monitoring dashboard configurations.
-* * **[student_database](https://github.com/TimothyAbad/student_database):** A robust relational database schema designed to track and manage institutional student registrations, course assignments, and enrollment metrics. This project outlines clean relational structures, data integrity constraints, and multi-table query executions using SQLite.
+* **[student_database](https://github.com/TimothyAbad/student_database):** A robust relational database schema designed to track and manage institutional student registrations, course assignments, and enrollment metrics. This project outlines clean relational structures, data integrity constraints, and multi-table query executions using SQLite.
 
 ## 🔗 Connect With Me
 * **Email:** timothyj.abad@gmail.com
